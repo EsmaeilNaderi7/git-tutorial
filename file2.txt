@@ -7,5 +7,5 @@ responsive
 
 new changes was applied
 
-
 responsive
+change
